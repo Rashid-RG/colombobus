@@ -1,0 +1,5 @@
+BUS NUMBER : 1001
+TRANSIT  : gg
+FARE   : hh
+ROUTE NAME : ttt
+TIME : FROM:gall  TO: colombo

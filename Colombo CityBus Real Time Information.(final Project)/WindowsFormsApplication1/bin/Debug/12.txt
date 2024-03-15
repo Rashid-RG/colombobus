@@ -1,0 +1,5 @@
+BUS NUMBER : 12
+TRANSIT  : r
+FARE   : t
+ROUTE NAME : s1
+TIME : FROM:2  TO: 3

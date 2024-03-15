@@ -1,0 +1,5 @@
+BUS NUMBER : n5
+TRANSIT  : r
+FARE   : t
+ROUTE NAME : d3
+TIME : FROM:4  TO: 6
